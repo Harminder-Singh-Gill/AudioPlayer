@@ -1,0 +1,132 @@
+C:\Users\monte\Audio Player Final\AudioPlayer2\AudioPlayer\bin\Debug\AudioPlayer.exe.config
+C:\Users\monte\Audio Player Final\AudioPlayer2\AudioPlayer\bin\Debug\AudioPlayer.exe
+C:\Users\monte\Audio Player Final\AudioPlayer2\AudioPlayer\bin\Debug\AudioPlayer.pdb
+C:\Users\monte\Audio Player Final\AudioPlayer2\AudioPlayer\bin\Debug\Google.Apis.Auth.dll
+C:\Users\monte\Audio Player Final\AudioPlayer2\AudioPlayer\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\monte\Audio Player Final\AudioPlayer2\AudioPlayer\bin\Debug\Google.Apis.Core.dll
+C:\Users\monte\Audio Player Final\AudioPlayer2\AudioPlayer\bin\Debug\Google.Apis.dll
+C:\Users\monte\Audio Player Final\AudioPlayer2\AudioPlayer\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\monte\Audio Player Final\AudioPlayer2\AudioPlayer\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\monte\Audio Player Final\AudioPlayer2\AudioPlayer\bin\Debug\libvideo.dll
+C:\Users\monte\Audio Player Final\AudioPlayer2\AudioPlayer\bin\Debug\MediaToolkit.dll
+C:\Users\monte\Audio Player Final\AudioPlayer2\AudioPlayer\bin\Debug\NAudio.dll
+C:\Users\monte\Audio Player Final\AudioPlayer2\AudioPlayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\monte\Audio Player Final\AudioPlayer2\AudioPlayer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\monte\Audio Player Final\AudioPlayer2\AudioPlayer\bin\Debug\TagLibSharp.dll
+C:\Users\monte\Audio Player Final\AudioPlayer2\AudioPlayer\bin\Debug\XanderUI.dll
+C:\Users\monte\Audio Player Final\AudioPlayer2\AudioPlayer\bin\Debug\Google.Apis.pdb
+C:\Users\monte\Audio Player Final\AudioPlayer2\AudioPlayer\bin\Debug\Google.Apis.xml
+C:\Users\monte\Audio Player Final\AudioPlayer2\AudioPlayer\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\monte\Audio Player Final\AudioPlayer2\AudioPlayer\bin\Debug\Google.Apis.Auth.xml
+C:\Users\monte\Audio Player Final\AudioPlayer2\AudioPlayer\bin\Debug\Google.Apis.Core.pdb
+C:\Users\monte\Audio Player Final\AudioPlayer2\AudioPlayer\bin\Debug\Google.Apis.Core.xml
+C:\Users\monte\Audio Player Final\AudioPlayer2\AudioPlayer\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\monte\Audio Player Final\AudioPlayer2\AudioPlayer\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\monte\Audio Player Final\AudioPlayer2\AudioPlayer\bin\Debug\NAudio.xml
+C:\Users\monte\Audio Player Final\AudioPlayer2\AudioPlayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\monte\Audio Player Final\AudioPlayer2\AudioPlayer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\monte\Audio Player Final\AudioPlayer2\AudioPlayer\bin\Debug\TagLibSharp.pdb
+C:\Users\monte\Audio Player Final\AudioPlayer2\AudioPlayer\bin\Debug\TagLibSharp.xml
+C:\Users\monte\Audio Player Final\AudioPlayer2\AudioPlayer\obj\Debug\AudioPlayer.csprojAssemblyReference.cache
+C:\Users\monte\Audio Player Final\AudioPlayer2\AudioPlayer\obj\Debug\Visualization\SpectrumAnalyzer.baml
+C:\Users\monte\Audio Player Final\AudioPlayer2\AudioPlayer\obj\Debug\Visualization\SpectrumAnalyzer.g.cs
+C:\Users\monte\Audio Player Final\AudioPlayer2\AudioPlayer\obj\Debug\AudioPlayer_MarkupCompile.cache
+C:\Users\monte\Audio Player Final\AudioPlayer2\AudioPlayer\obj\Debug\AudioPlayer.g.resources
+C:\Users\monte\Audio Player Final\AudioPlayer2\AudioPlayer\obj\Debug\AudioPlayer.Forms.FormPlayOnline.resources
+C:\Users\monte\Audio Player Final\AudioPlayer2\AudioPlayer\obj\Debug\AudioPlayer.FormUI.resources
+C:\Users\monte\Audio Player Final\AudioPlayer2\AudioPlayer\obj\Debug\AudioPlayer.FormPlayMultiple.resources
+C:\Users\monte\Audio Player Final\AudioPlayer2\AudioPlayer\obj\Debug\AudioPlayer.Forms.ImagePanel.resources
+C:\Users\monte\Audio Player Final\AudioPlayer2\AudioPlayer\obj\Debug\AudioPlayer.Properties.Resources.resources
+C:\Users\monte\Audio Player Final\AudioPlayer2\AudioPlayer\obj\Debug\AudioPlayer.csproj.GenerateResource.cache
+C:\Users\monte\Audio Player Final\AudioPlayer2\AudioPlayer\obj\Debug\AudioPlayer.csproj.CoreCompileInputs.cache
+C:\Users\monte\Audio Player Final\AudioPlayer2\AudioPlayer\obj\Debug\AudioPlayer.csproj.CopyComplete
+C:\Users\monte\Audio Player Final\AudioPlayer2\AudioPlayer\obj\Debug\AudioPlayer.exe
+C:\Users\monte\Audio Player Final\AudioPlayer2\AudioPlayer\obj\Debug\AudioPlayer.pdb
+C:\Users\Harminder Singh Gill\Desktop\Minor Project 2\AudioPlayer\bin\Debug\AudioPlayer.exe.config
+C:\Users\Harminder Singh Gill\Desktop\Minor Project 2\AudioPlayer\bin\Debug\AudioPlayer.exe
+C:\Users\Harminder Singh Gill\Desktop\Minor Project 2\AudioPlayer\bin\Debug\AudioPlayer.pdb
+C:\Users\Harminder Singh Gill\Desktop\Minor Project 2\AudioPlayer\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Harminder Singh Gill\Desktop\Minor Project 2\AudioPlayer\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Harminder Singh Gill\Desktop\Minor Project 2\AudioPlayer\bin\Debug\Google.Apis.Core.dll
+C:\Users\Harminder Singh Gill\Desktop\Minor Project 2\AudioPlayer\bin\Debug\Google.Apis.dll
+C:\Users\Harminder Singh Gill\Desktop\Minor Project 2\AudioPlayer\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Harminder Singh Gill\Desktop\Minor Project 2\AudioPlayer\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\Harminder Singh Gill\Desktop\Minor Project 2\AudioPlayer\bin\Debug\libvideo.dll
+C:\Users\Harminder Singh Gill\Desktop\Minor Project 2\AudioPlayer\bin\Debug\MediaToolkit.dll
+C:\Users\Harminder Singh Gill\Desktop\Minor Project 2\AudioPlayer\bin\Debug\NAudio.dll
+C:\Users\Harminder Singh Gill\Desktop\Minor Project 2\AudioPlayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Harminder Singh Gill\Desktop\Minor Project 2\AudioPlayer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Harminder Singh Gill\Desktop\Minor Project 2\AudioPlayer\bin\Debug\TagLibSharp.dll
+C:\Users\Harminder Singh Gill\Desktop\Minor Project 2\AudioPlayer\bin\Debug\XanderUI.dll
+C:\Users\Harminder Singh Gill\Desktop\Minor Project 2\AudioPlayer\bin\Debug\Google.Apis.pdb
+C:\Users\Harminder Singh Gill\Desktop\Minor Project 2\AudioPlayer\bin\Debug\Google.Apis.xml
+C:\Users\Harminder Singh Gill\Desktop\Minor Project 2\AudioPlayer\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Harminder Singh Gill\Desktop\Minor Project 2\AudioPlayer\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Harminder Singh Gill\Desktop\Minor Project 2\AudioPlayer\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Harminder Singh Gill\Desktop\Minor Project 2\AudioPlayer\bin\Debug\Google.Apis.Core.xml
+C:\Users\Harminder Singh Gill\Desktop\Minor Project 2\AudioPlayer\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\Harminder Singh Gill\Desktop\Minor Project 2\AudioPlayer\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\Harminder Singh Gill\Desktop\Minor Project 2\AudioPlayer\bin\Debug\NAudio.xml
+C:\Users\Harminder Singh Gill\Desktop\Minor Project 2\AudioPlayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Harminder Singh Gill\Desktop\Minor Project 2\AudioPlayer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Harminder Singh Gill\Desktop\Minor Project 2\AudioPlayer\bin\Debug\TagLibSharp.pdb
+C:\Users\Harminder Singh Gill\Desktop\Minor Project 2\AudioPlayer\bin\Debug\TagLibSharp.xml
+C:\Users\Harminder Singh Gill\Desktop\Minor Project 2\AudioPlayer\obj\Debug\AudioPlayer.csprojAssemblyReference.cache
+C:\Users\Harminder Singh Gill\Desktop\Minor Project 2\AudioPlayer\obj\Debug\Visualization\SpectrumAnalyzer.baml
+C:\Users\Harminder Singh Gill\Desktop\Minor Project 2\AudioPlayer\obj\Debug\Visualization\SpectrumAnalyzer.g.cs
+C:\Users\Harminder Singh Gill\Desktop\Minor Project 2\AudioPlayer\obj\Debug\AudioPlayer_MarkupCompile.cache
+C:\Users\Harminder Singh Gill\Desktop\Minor Project 2\AudioPlayer\obj\Debug\AudioPlayer.g.resources
+C:\Users\Harminder Singh Gill\Desktop\Minor Project 2\AudioPlayer\obj\Debug\AudioPlayer.Forms.FormPlayOnline.resources
+C:\Users\Harminder Singh Gill\Desktop\Minor Project 2\AudioPlayer\obj\Debug\AudioPlayer.FormUI.resources
+C:\Users\Harminder Singh Gill\Desktop\Minor Project 2\AudioPlayer\obj\Debug\AudioPlayer.FormPlayMultiple.resources
+C:\Users\Harminder Singh Gill\Desktop\Minor Project 2\AudioPlayer\obj\Debug\AudioPlayer.Forms.ImagePanel.resources
+C:\Users\Harminder Singh Gill\Desktop\Minor Project 2\AudioPlayer\obj\Debug\AudioPlayer.Properties.Resources.resources
+C:\Users\Harminder Singh Gill\Desktop\Minor Project 2\AudioPlayer\obj\Debug\AudioPlayer.csproj.GenerateResource.cache
+C:\Users\Harminder Singh Gill\Desktop\Minor Project 2\AudioPlayer\obj\Debug\AudioPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Harminder Singh Gill\Desktop\Minor Project 2\AudioPlayer\obj\Debug\AudioPlayer.csproj.CopyComplete
+C:\Users\Harminder Singh Gill\Desktop\Minor Project 2\AudioPlayer\obj\Debug\AudioPlayer.exe
+C:\Users\Harminder Singh Gill\Desktop\Minor Project 2\AudioPlayer\obj\Debug\AudioPlayer.pdb
+C:\Users\Harminder Singh Gill\Desktop\Minor Project\AudioPlayer\bin\Debug\AudioPlayer.exe.config
+C:\Users\Harminder Singh Gill\Desktop\Minor Project\AudioPlayer\bin\Debug\AudioPlayer.exe
+C:\Users\Harminder Singh Gill\Desktop\Minor Project\AudioPlayer\bin\Debug\AudioPlayer.pdb
+C:\Users\Harminder Singh Gill\Desktop\Minor Project\AudioPlayer\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Harminder Singh Gill\Desktop\Minor Project\AudioPlayer\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Harminder Singh Gill\Desktop\Minor Project\AudioPlayer\bin\Debug\Google.Apis.Core.dll
+C:\Users\Harminder Singh Gill\Desktop\Minor Project\AudioPlayer\bin\Debug\Google.Apis.dll
+C:\Users\Harminder Singh Gill\Desktop\Minor Project\AudioPlayer\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Harminder Singh Gill\Desktop\Minor Project\AudioPlayer\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\Harminder Singh Gill\Desktop\Minor Project\AudioPlayer\bin\Debug\libvideo.dll
+C:\Users\Harminder Singh Gill\Desktop\Minor Project\AudioPlayer\bin\Debug\MediaToolkit.dll
+C:\Users\Harminder Singh Gill\Desktop\Minor Project\AudioPlayer\bin\Debug\NAudio.dll
+C:\Users\Harminder Singh Gill\Desktop\Minor Project\AudioPlayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Harminder Singh Gill\Desktop\Minor Project\AudioPlayer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Harminder Singh Gill\Desktop\Minor Project\AudioPlayer\bin\Debug\TagLibSharp.dll
+C:\Users\Harminder Singh Gill\Desktop\Minor Project\AudioPlayer\bin\Debug\XanderUI.dll
+C:\Users\Harminder Singh Gill\Desktop\Minor Project\AudioPlayer\bin\Debug\Google.Apis.pdb
+C:\Users\Harminder Singh Gill\Desktop\Minor Project\AudioPlayer\bin\Debug\Google.Apis.xml
+C:\Users\Harminder Singh Gill\Desktop\Minor Project\AudioPlayer\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Harminder Singh Gill\Desktop\Minor Project\AudioPlayer\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Harminder Singh Gill\Desktop\Minor Project\AudioPlayer\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Harminder Singh Gill\Desktop\Minor Project\AudioPlayer\bin\Debug\Google.Apis.Core.xml
+C:\Users\Harminder Singh Gill\Desktop\Minor Project\AudioPlayer\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\Harminder Singh Gill\Desktop\Minor Project\AudioPlayer\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\Harminder Singh Gill\Desktop\Minor Project\AudioPlayer\bin\Debug\NAudio.xml
+C:\Users\Harminder Singh Gill\Desktop\Minor Project\AudioPlayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Harminder Singh Gill\Desktop\Minor Project\AudioPlayer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Harminder Singh Gill\Desktop\Minor Project\AudioPlayer\bin\Debug\TagLibSharp.pdb
+C:\Users\Harminder Singh Gill\Desktop\Minor Project\AudioPlayer\bin\Debug\TagLibSharp.xml
+C:\Users\Harminder Singh Gill\Desktop\Minor Project\AudioPlayer\obj\Debug\AudioPlayer.csprojAssemblyReference.cache
+C:\Users\Harminder Singh Gill\Desktop\Minor Project\AudioPlayer\obj\Debug\Visualization\SpectrumAnalyzer.baml
+C:\Users\Harminder Singh Gill\Desktop\Minor Project\AudioPlayer\obj\Debug\Visualization\SpectrumAnalyzer.g.cs
+C:\Users\Harminder Singh Gill\Desktop\Minor Project\AudioPlayer\obj\Debug\AudioPlayer_MarkupCompile.cache
+C:\Users\Harminder Singh Gill\Desktop\Minor Project\AudioPlayer\obj\Debug\AudioPlayer.g.resources
+C:\Users\Harminder Singh Gill\Desktop\Minor Project\AudioPlayer\obj\Debug\AudioPlayer.Forms.FormPlayOnline.resources
+C:\Users\Harminder Singh Gill\Desktop\Minor Project\AudioPlayer\obj\Debug\AudioPlayer.FormUI.resources
+C:\Users\Harminder Singh Gill\Desktop\Minor Project\AudioPlayer\obj\Debug\AudioPlayer.FormPlayMultiple.resources
+C:\Users\Harminder Singh Gill\Desktop\Minor Project\AudioPlayer\obj\Debug\AudioPlayer.Forms.ImagePanel.resources
+C:\Users\Harminder Singh Gill\Desktop\Minor Project\AudioPlayer\obj\Debug\AudioPlayer.Properties.Resources.resources
+C:\Users\Harminder Singh Gill\Desktop\Minor Project\AudioPlayer\obj\Debug\AudioPlayer.csproj.GenerateResource.cache
+C:\Users\Harminder Singh Gill\Desktop\Minor Project\AudioPlayer\obj\Debug\AudioPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Harminder Singh Gill\Desktop\Minor Project\AudioPlayer\obj\Debug\AudioPlayer.csproj.CopyComplete
+C:\Users\Harminder Singh Gill\Desktop\Minor Project\AudioPlayer\obj\Debug\AudioPlayer.exe
+C:\Users\Harminder Singh Gill\Desktop\Minor Project\AudioPlayer\obj\Debug\AudioPlayer.pdb
